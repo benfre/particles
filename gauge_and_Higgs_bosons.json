@@ -1,0 +1,64 @@
+{
+    "gauge and Higgs bosons":[
+        {
+            "name":"photon",
+            "id":22,
+            "alternative names":["gamma","γ"],
+            "spin":[0,1],
+            "spin-parity":["1","-","-"],
+            "mass":{
+                "value":0,
+                "upper error":1E-27
+            },
+            "charge":{
+                "value":0,
+                "upper error":1E-35
+            },
+            "life":"stable"
+        },
+        {
+            "name":"gluon",
+            "id":21,
+            "alternative names":["g"],
+            "spin":[0],
+            "spin-parity":["1","-"],
+            "mass":0,
+            "charge":"SU(3) color octet"
+        },
+        {
+            "name":"W",
+            "id":24,
+            "spin":1,
+            "mass":{
+                "value":80.379,
+                "error":0.012,
+                "width":2.085,
+                "width error":0.042
+            },
+            "charge":[1,-1]
+        },
+        {
+            "name":"Z",
+            "id":23,
+            "spin":1,
+            "mass":{
+                "value":91.1876,
+                "error":0.0021,
+                "width":2.4952,
+                "width error":0.0023
+            },
+            "charge":0
+        },
+        {
+            "name":"Higgs boson",
+            "alternative names":["H^0"],
+            "id":25,
+            "spin":0,
+            "mass":{
+                "value":125.10,
+                "error":0.14
+            },
+            "charge":0
+        }
+    ]
+}
