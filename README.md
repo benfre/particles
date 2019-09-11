@@ -35,8 +35,7 @@ Each json file contents a category of particles. json file is a object with name
                 "upper error":1E-35
             },
             "life":"stable"
-        },
-        //...
+        }
     ]
 }
 ```
@@ -44,6 +43,7 @@ Each json file contents a category of particles. json file is a object with name
 
 ### Unit
 same unit is used for all particles
+
 | name   | symbol|      explain         |
 | ------ | :-----: | ---------------------|
 | charge | e | electron charge positive|
