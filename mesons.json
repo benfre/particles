@@ -1,0 +1,252 @@
+{
+    "mesons":[
+        {
+            "name":"pi+",
+            "id":211,
+            "alternative names":["pion+"],
+            "quark components":["up","anti-down"],
+            "charge":1,
+            "spin":"1-",
+            "spin parity":["0","-"],
+            "mass":{
+                "value":139.57061E-3,
+                "error":0.00024E-3
+            },
+            "life":{
+                "value": 2.6033E-8,
+                "error": 0.0005E-8
+            }
+        },
+        {
+            "name":"pi0",
+            "id":111,
+            "alternative names":["pion0"],
+            "charge":0,
+            "spin":"1-",
+            "spin parity":["0","-","+"],
+            "mass":{
+                "value":134.9770E-3,
+                "error":0.0005E-3
+            },
+            "life":{
+                "value": 8.52E-17,
+                "error": 0.18E-17
+            }
+        },
+        {
+            "name":"η",
+            "id":221,
+            "alternative names":["eta"],
+            "charge":0,
+            "spin":"0+",
+            "spin parity":["0","+","+"],
+            "mass":{
+                "value":547.862E-3,
+                "error":0.017E-3
+            },
+            "life":{
+                "value": 8.52E-17,
+                "error": 0.18E-17
+            }
+        },
+        {
+            "name":"f0(500)",
+            "id":9000221,
+            "charge":0,
+            "spin":"0+",
+            "spin parity":["0","+","+"],
+            "mass":{
+                "lower limit":400E-3,
+                "upper limit":550E-3,
+                "width lower limit":400E-3,
+                "width upper limit":700E-3
+            }
+        },
+        {
+            "name":"ρ(770)0",
+            "id":113,
+            "alternative names":["rou(770)0"],
+            "charge":0,
+            "spin":"1+",
+            "spin parity":["1","-","-"],
+            "mass":{
+                "value":775.26E-3,
+                "error":0.25E-3,
+                "width":149.1E-3,
+                "width error":0.8E-3
+            }
+        },
+        {
+            "name":"ρ(770)+",
+            "id":213,
+            "alternative names":["rou(770)+"],
+            "charge":1,
+            "spin":"1+",
+            "spin parity":["1","-","-"],
+            "mass":{
+                "value":775.26E-3,
+                "error":0.25E-3,
+                "width":149.1E-3,
+                "width error":0.8E-3
+            }
+        },
+        {
+            "name":"ω(782)",
+            "id":223,
+            "alternative names":["omega(782)"],
+            "charge":0,
+            "spin":"0-",
+            "spin parity":["1","-","-"],
+            "mass":{
+                "value":782.65E-3,
+                "error":0.12E-3,
+                "width":8.49E-3,
+                "width error":0.8E-3
+            }
+        },
+        {
+            "name":"η'(958)",
+            "id":331,
+            "alternative names":["eta'(958)"],
+            "charge":0,
+            "spin":"0+",
+            "spin parity":["1","-","-"],
+            "mass":{
+                "value":782.65E-3,
+                "error":0.12E-3,
+                "width":8.49E-3,
+                "width error":0.8E-3
+            }
+        },
+        {
+            "name":"f0(980)",
+            "id":9010221,
+            "charge":0,
+            "spin":"0+",
+            "spin parity":["0","+","+"],
+            "mass":{
+                "value":990E-3,
+                "error":20E-3,
+                "width lower limit":10E-3,
+                "width upper limit":100E-3
+            }
+        },
+        {
+            "name":"a0(980)+",
+            "id":9000211,
+            "charge":1,
+            "spin":"1-",
+            "spin parity":["0","+","+"],
+            "mass":{
+                "value":980E-3,
+                "error":20E-3,
+                "width lower limit":50E-3,
+                "width upper limit":100E-3
+            }
+        },
+        {
+            "name":"a0(980)0",
+            "id":9000111,
+            "charge":0,
+            "spin":"1-",
+            "spin parity":["0","+","+"],
+            "mass":{
+                "value":980E-3,
+                "error":20E-3,
+                "width lower limit":50E-3,
+                "width upper limit":100E-3
+            }
+        },
+        {
+            "name":"Φ(1020)",
+            "id":333,
+            "charge":0,
+            "spin":"0-",
+            "spin parity":["1","-","-"],
+            "mass":{
+                "value":1019.461E-3,
+                "error":0.016E-3,
+                "width":4.249E-3,
+                "width error":0.013E-3
+            }
+        },
+        {
+            "name":"h1(1170)",
+            "id":10223,
+            "charge":0,
+            "spin":"1+",
+            "spin parity":["1","+","-"],
+            "mass":{
+                "value":1229.5E-3,
+                "error":3.2E-3,
+                "width":360E-3,
+                "width error":40E-3
+            }
+        },
+        {
+            "name":"b1(1235)+",
+            "id":10213,
+            "charge":1,
+            "spin":"1+",
+            "spin parity":["1","+","-"],
+            "mass":{
+                "value":1229.5E-3,
+                "error":3.2E-3,
+                "width":142E-3,
+                "width error":9E-3
+            }
+        },
+        {
+            "name":"b1(1235)0",
+            "id":10113,
+            "charge":0,
+            "spin":"1+",
+            "spin parity":["1","+","-"],
+            "mass":{
+                "value":1229.5E-3,
+                "error":3.2E-3,
+                "width":142E-3,
+                "width error":9E-3
+            }
+        },
+        {
+            "name":"a1(1260)+",
+            "id":20213,
+            "charge":1,
+            "spin":"1-",
+            "spin parity":["1","+","+"],
+            "mass":{
+                "value":1230E-3,
+                "error":40E-3,
+                "width lower limit":250E-3,
+                "width upper limit":600E-3
+            }
+        },
+        {
+            "name":"a1(1260)0",
+            "id":20113,
+            "charge":0,
+            "spin":"1-",
+            "spin parity":["1","+","+"],
+            "mass":{
+                "value":1230E-3,
+                "error":40E-3,
+                "width lower limit":250E-3,
+                "width upper limit":600E-3
+            }
+        },
+        {
+            "name":"f2(1270)+",
+            "id":225,
+            "charge":0,
+            "spin":"0+",
+            "spin parity":["2","+","+"],
+            "mass":{
+                "value":1275.5E-3,
+                "error":0.8E-3,
+                "width":186.7E-3,
+                "width upper limit":600E-3
+            }
+        }
+    ]
+}

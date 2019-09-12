@@ -5,7 +5,7 @@
             "id":22,
             "alternative names":["gamma","γ"],
             "spin":[0,1],
-            "spin-parity":["1","-","-"],
+            "spin parity":["1","-","-"],
             "mass":{
                 "value":0,
                 "upper error":1E-27
@@ -21,13 +21,14 @@
             "id":21,
             "alternative names":["g"],
             "spin":[0],
-            "spin-parity":["1","-"],
+            "spin parity":["1","-"],
             "mass":0,
             "charge":"SU(3) color octet"
         },
         {
             "name":"W",
             "id":24,
+            "alternative names":["W boson"],
             "spin":1,
             "mass":{
                 "value":80.379,
@@ -40,6 +41,7 @@
         {
             "name":"Z",
             "id":23,
+            "alternative names":["Z boson"],
             "spin":1,
             "mass":{
                 "value":91.1876,

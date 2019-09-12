@@ -1,0 +1,67 @@
+{
+    "leptons":[
+        {
+            "name":"e",
+            "id":11,
+            "alternative names":["electron"],
+            "spin":"1/2",
+            "mass":{
+                "value":0.5109989461E-3,
+                "error":0.0000000031E-3
+            },
+            "charge":-1,
+            "life":{
+                "value":"stable",
+                "lower limit": 2.1E36
+            }
+        },
+        {
+            "name":"neutrino",
+            "id":12,
+            "alternative names":["nu","nu(e)"],
+            "spin":"1/2"
+        },
+        {
+            "name":"μ",
+            "id":13,
+            "alternative names":["muon","mu"],
+            "spin":"1/2",
+            "mass":{
+                "value":105.6583745E-3,
+                "error":0.0000024E-3
+            },
+            "charge":-1,
+            "life":{
+                "value": 2.1969811E-6,
+                "error":0.0000022E-6
+            }
+        },
+        {
+            "name":"muon neutrino",
+            "id":14,
+            "alternative names":["nu(mu)","nu(mu)"],
+            "spin":"1/2"
+        },
+        {
+            "name":"τ",
+            "id":15,
+            "alternative names":["tau","tau"],
+            "spin":"1/2",
+            "mass":{
+                "value":1776.86E-3,
+                "error":0.12E-3
+            },
+            "charge":-1,
+            "life":{
+                "value":290.3E-15,
+                "error": 0.5E-15
+            }
+        },
+        {
+            "name":"tau neutrino",
+            "id":16,
+            "alternative names":["nu(tau)"],
+            "spin":"1/2"
+        }
+    ]
+}

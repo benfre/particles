@@ -5,7 +5,7 @@
             "id":1,
             "alternative names":["down quark"],
             "spin":"1/2",
-            "spin-parity":["1/2","+"],
+            "spin parity":["1/2","+"],
             "mass":{
                 "value":4.67E-3,
                 "upper error":0.48E-3,
@@ -20,7 +20,7 @@
             "id":2,
             "alternative names":["up quark"],
             "spin":"1/2",
-            "spin-parity":["1/2","+"],
+            "spin parity":["1/2","+"],
             "mass":{
                 "value":2.16E-3,
                 "upper error":0.49E-3,
@@ -35,7 +35,7 @@
             "id":3,
             "alternative names":["strange quark"],
             "spin":0,
-            "spin-parity":["1/2","+"],
+            "spin parity":["1/2","+"],
             "mass":{
                 "value":93E-3,
                 "upper error":11E-3,
@@ -50,7 +50,7 @@
             "id":4,
             "alternative names":["charm quark"],
             "spin":0,
-            "spin-parity":["1/2","+"],
+            "spin parity":["1/2","+"],
             "mass":{
                 "value":1.27,
                 "error":0.02
@@ -64,7 +64,7 @@
             "id":5,
             "alternative names":["bottom quark"],
             "spin":0,
-            "spin-parity":["1/2","+"],
+            "spin parity":["1/2","+"],
             "mass":{
                 "value":4.18,
                 "upper error":0.03,
@@ -79,7 +79,7 @@
             "id":5,
             "alternative names":["top quark"],
             "spin":0,
-            "spin-parity":["1/2","+"],
+            "spin parity":["1/2","+"],
             "mass":{
                 "value":172.9,
                 "error":0.4,
